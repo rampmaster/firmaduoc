@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Firmas Duoc UC",
+  "description": "Aplicación para generar firmas de correo electrónico estandarizadas para Duoc UC.",
+  "requestFramePermissions": []
+}
